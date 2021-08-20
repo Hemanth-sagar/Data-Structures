@@ -1,2 +1,2 @@
 # Data-Structures
-Using C Language
+▲lgorithms Implemented in C
